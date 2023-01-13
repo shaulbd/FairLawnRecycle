@@ -1,0 +1,1129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Qvs6X4sa_hGEn-2LXQYB0
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230103T110000Z
+DTEND:20230103T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:PZFoEINkorGLcs_sTO7pk
+SUMMARY:Bottles / Cans / Christmas Trees
+DTSTAMP:20230113T023500Z
+DTSTART:20230110T110000Z
+DTEND:20230110T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nNo plastic bags\, ornaments\, or tinsel.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zsiU1Lyys3OXO2XFsAKmx
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230117T110000Z
+DTEND:20230117T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:X1amxzYWKgZWuqnuKzSNJ
+SUMMARY:Bottles / Cans
+DTSTAMP:20230113T023500Z
+DTSTART:20230124T110000Z
+DTEND:20230124T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:y30QTJcpq0cy49s6-wh83
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230131T110000Z
+DTEND:20230131T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qAkFt7y_WTvlOPZKG97Pl
+SUMMARY:Bottles / Cans
+DTSTAMP:20230113T023500Z
+DTSTART:20230207T110000Z
+DTEND:20230207T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:o4arodOPn0x_8dDEsRSFZ
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230214T110000Z
+DTEND:20230214T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:NNjTOu1AZH7rBRJV-_Y-T
+SUMMARY:Bottles / Cans
+DTSTAMP:20230113T023500Z
+DTSTART:20230221T110000Z
+DTEND:20230221T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qMHk3gzHKqwSDYHNbq8kq
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230228T110000Z
+DTEND:20230228T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Qd8zW_W2AGhWkutCOh5MT
+SUMMARY:Bottles / Cans
+DTSTAMP:20230113T023500Z
+DTSTART:20230307T110000Z
+DTEND:20230307T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7WAnp-m303yj2nlIWyyFV
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230314T100000Z
+DTEND:20230314T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iwUa9VTbB6GZWXDpB2klg
+SUMMARY:Bottles / Cans
+DTSTAMP:20230113T023500Z
+DTSTART:20230321T100000Z
+DTEND:20230321T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:XgnBd7ErsmmZQRhgB_VRp
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230328T100000Z
+DTEND:20230328T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:SOl0X5pqAscz4hh_WpsKL
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230404T100000Z
+DTEND:20230404T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Sm_NDzzCiYe2AT_Wg_QSs
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230411T100000Z
+DTEND:20230411T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eyPDWCdeVjiBhTDkDBM-N
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230418T100000Z
+DTEND:20230418T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:-L73Qf9vFQi6kBTbkO2S6
+SUMMARY:Litter Clean Up Event
+DTSTAMP:20230113T023500Z
+DTSTART:20230422T100000Z
+DTEND:20230422T200000Z
+DESCRIPTION:Register by calling 201-794-5341. See details on page 2.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dkIq2-APryguir_Xeop5j
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230425T100000Z
+DTEND:20230425T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:-MoX18n65TTG5pYDLwSTC
+SUMMARY:Construction Materials
+DTSTAMP:20230113T023500Z
+DTSTART:20230426T100000Z
+DTEND:20230426T200000Z
+DESCRIPTION:Construction disposal options and rules can be found on page 10
+	 of the handbook.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Ez--pvnhXDGoFfOoILvKK
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230502T100000Z
+DTEND:20230502T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:O695UFJbr2DZF3webtiu8
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230509T100000Z
+DTEND:20230509T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tonv2Zaxruia08WsOF-Lv
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230516T100000Z
+DTEND:20230516T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Qdx6jGZmfx0EBJPmTPond
+SUMMARY:Litter Clean Up Event
+DTSTAMP:20230113T023500Z
+DTSTART:20230520T100000Z
+DTEND:20230520T200000Z
+DESCRIPTION:Register by calling 201-794-5341. See details on page 2.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:CV9VQQy8k5aLf1QM5FhXi
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230523T100000Z
+DTEND:20230523T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa13yrdBauon5zcxZ9Xby
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230530T100000Z
+DTEND:20230530T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mYkciPh0NaaIxu_F5Tem5
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230606T100000Z
+DTEND:20230606T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Hc0weHI8IOn6B2qaussyb
+SUMMARY:Litter Clean Up Event
+DTSTAMP:20230113T023500Z
+DTSTART:20230610T100000Z
+DTEND:20230610T200000Z
+DESCRIPTION:Register by calling 201-794-5341. See details on page 2.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:GbTmfrCjH71M13vDTC3pv
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230613T100000Z
+DTEND:20230613T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:djKlNkvi4ewPthH7D1kmE
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230620T100000Z
+DTEND:20230620T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2Y0JiIWcNXyc9Wjd9BQSw
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230627T100000Z
+DTEND:20230627T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bHqHDfR3wpvZvpZVjC1Qz
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20230706T100000Z
+DTEND:20230706T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:PCL47QiGNXKMmUMAWI3BE
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230711T100000Z
+DTEND:20230711T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:HMyT2PRPxFW1k18uBMj1i
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230718T100000Z
+DTEND:20230718T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:_zVcqsSG1WHvhlaFSasNG
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230725T100000Z
+DTEND:20230725T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2kQtM_mOhOKnOPnG0xvkD
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230801T100000Z
+DTEND:20230801T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2lUtFL9F1q1feTGuFZyn3
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230808T100000Z
+DTEND:20230808T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ARJD02EsBlNKF1aeLrlbG
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230815T100000Z
+DTEND:20230815T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:TDcIj8Utzf5kIACkd1hgB
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230822T100000Z
+DTEND:20230822T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7zfC3t5Nmj6EOxLULuHBO
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230829T100000Z
+DTEND:20230829T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xKTMFBHqiZwErLwbGX_Nt
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230905T100000Z
+DTEND:20230905T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3-MqLsuakzyBsm0n2EZgd
+SUMMARY:Litter Clean Up Event
+DTSTAMP:20230113T023500Z
+DTSTART:20230909T100000Z
+DTEND:20230909T200000Z
+DESCRIPTION:Register by calling 201-794-5341. See details on page 2.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jLaVHo8tLcleLjqBFAl1M
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230912T100000Z
+DTEND:20230912T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:DmIUCtFOfHI_ePYbb3hSw
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230919T100000Z
+DTEND:20230919T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:N5ROFfCjF6wh2Yxe8FLsz
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20230926T100000Z
+DTEND:20230926T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9OgsG0kJqpiJGxIA3eEGi
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231003T100000Z
+DTEND:20231003T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hFAu88hfdD9SCvy83_HQu
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231010T100000Z
+DTEND:20231010T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r3J-1tjXIpm7LJUWbnnKR
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231017T100000Z
+DTEND:20231017T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aXErJNxqmqvrUudv6Q81n
+SUMMARY:Construction Materials
+DTSTAMP:20230113T023500Z
+DTSTART:20231018T100000Z
+DTEND:20231018T200000Z
+DESCRIPTION:Construction disposal options and rules can be found on page 10
+	 of the handbook.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:yzzibSuXFvFESaOzRSD5n
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231024T100000Z
+DTEND:20231024T200000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8rS2_KsIoLs5UxWjYHLNu
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231031T100000Z
+DTEND:20231031T200000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:-Zzz6B5_Osvm0yXT1-OV5
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231107T110000Z
+DTEND:20231107T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:GAGtn8PhC6qBxCsR1AOCW
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231114T110000Z
+DTEND:20231114T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:Uh3T8DejaZSFh2Z1brMJ0
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231121T110000Z
+DTEND:20231121T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:EiEZ8Gl0rkWTHmMkikzA1
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231128T110000Z
+DTEND:20231128T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:PLx8DaVcTT5K7F_Q6enmE
+SUMMARY:Paper / Cardboard / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231205T110000Z
+DTEND:20231205T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!\nGrass\, leaves\, brush\, and branches. No logs or stumps.Ac
+	ceptable containers: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2zmXkpJaBjtevAeeUHktp
+SUMMARY:Bottles / Cans / Yard Waste
+DTSTAMP:20230113T023500Z
+DTSTART:20231212T110000Z
+DTEND:20231212T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.\
+	nGrass\, leaves\, brush\, and branches. No logs or stumps.Acceptable conta
+	iners: Paper bags or barrels less than 40 gal.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:T2EobcJCc7wHVN6H8V5y4
+SUMMARY:Paper / Cardboard
+DTSTAMP:20230113T023500Z
+DTSTART:20231219T110000Z
+DTEND:20231219T210000Z
+DESCRIPTION:Newspapers\, magazines\, junk mail\, cereal boxes\, cardboardbo
+	xes\, soft cover books\, shredded paper and office paper. No Styrofoam or 
+	plastic wrap!
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jJ0t6FRibqxDepWTUE7fj
+SUMMARY:Bottles / Cans
+DTSTAMP:20230113T023500Z
+DTSTART:20231226T110000Z
+DTEND:20231226T210000Z
+DESCRIPTION:Glass bottles & jars\, tin cans\, aluminum cans\, plastic bottl
+	es\, jars\, jugs\, family sized food tubs\, and wax coated gable cartons.
+URL:https://www.fairlawn.org/recycling
+CATEGORIES:Recycling
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT12H30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
